@@ -1,3 +1,3 @@
 # AlphaQuant
 
-machine learning used in quantitative finance
+Use machine learning in quantitative finance for fun. Work in progress.
